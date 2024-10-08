@@ -9,44 +9,38 @@
 </div>
 <br><br>
 
-<div>
-  <img src="https://github.com/user-attachments/assets/717cd03f-dc9b-4ee5-acfe-d47dd57a363e" width="200" height="350" />
-  <p>1. Login Screen Supplier Side</p>
-  
-</div>
-<br><br>
-
-
-<div>
-  <img src="https://github.com/user-attachments/assets/9c48a31a-fa26-454c-9a5a-2b4e9b198571" width="200" height="350" />
-  <p>2. SignUp Screen Supplier Side</p>
-  
-</div>
-<br><br>
-
-
-<div>
-  <img src="https://github.com/user-attachments/assets/c1329af6-2d85-42aa-85e5-eeb0bed9d8aa" width="200" height="350" />
-  <p>3. Home Screen Supplier Side</p>
-  
-</div>
-<br><br>
-
-
-<div>
-  <img src="https://github.com/user-attachments/assets/129703e8-0ed9-451b-900d-c3008df2a697" width="200" height="350" />
-  <p>4. Category Screen Supplier Side</p>
-  
-</div>
-<br><br>
-
-
-<div>
-  <img src="https://github.com/user-attachments/assets/97d61ebf-4398-4f80-bc36-07c8c2227754" width="200" height="350" />
-  <p>5. Search Screen Supplier Side</p>
-  
-</div>
-<br><br>
+<table>
+  <tr>
+    <th width="10%">NO</th>
+    <th width="40%">SCREEN IMAGE</th>
+    <th width="50%">DESCRIPTION</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td> <img src="https://github.com/user-attachments/assets/717cd03f-dc9b-4ee5-acfe-d47dd57a363e" width="200" height="350" /></td>
+    <td><p>1. Login Screen Supplier Side</p></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><img src="https://github.com/user-attachments/assets/9c48a31a-fa26-454c-9a5a-2b4e9b198571" width="200" height="350" /></td>
+    <td><p>SignUp Screen Supplier Side</p></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td> <img src="https://github.com/user-attachments/assets/c1329af6-2d85-42aa-85e5-eeb0bed9d8aa" width="200" height="350" /></td>
+    <td><p>Home Screen Supplier Side</p></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td> <img src="https://github.com/user-attachments/assets/129703e8-0ed9-451b-900d-c3008df2a697" width="200" height="350" /></td>
+    <td><p>Category Screen Supplier Side</p></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td> <img src="https://github.com/user-attachments/assets/97d61ebf-4398-4f80-bc36-07c8c2227754" width="200" height="350" /></td>
+    <td><p>Search Screen Supplier Side</p></td>
+  </tr>
+</table>
 
 
 <div>
