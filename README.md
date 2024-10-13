@@ -28,27 +28,27 @@
   <tr>
     <td>3</td>
     <td> <img src="https://github.com/user-attachments/assets/c1329af6-2d85-42aa-85e5-eeb0bed9d8aa" width="200" height="350" /></td>
-    <td><p>Home Screen Supplier Side</p></td>
+    <td><p>Home Screen Supplier Side, this is your first page you see after you login the app, there are  5 navigation (Home, Catgeory, Stores, Dashboard, Upload) when you login default navigation is home. in Home Screen you can see every product provided in this and you can search product in search panel in very top in the app</p></td>
   </tr>
   <tr>
     <td>4</td>
     <td> <img src="https://github.com/user-attachments/assets/129703e8-0ed9-451b-900d-c3008df2a697" width="200" height="350" /></td>
-    <td><p>Category Screen Supplier Side</p></td>
+    <td><p>Category Screen Supplier Side, in Here showing all product sorted by category, you can slide up and down to navigate quickly to find your desired product. if you want see description of product you can just tap in the product you want it will automically navigate you to product description that you can see the detail of this product.</p></td>
   </tr>
   <tr>
     <td>5</td>
     <td> <img src="https://github.com/user-attachments/assets/97d61ebf-4398-4f80-bc36-07c8c2227754" width="200" height="350" /></td>
-    <td><p>Search Screen Supplier Side</p></td>
+    <td><p>Search Screen Supplier Side, you can search a product with typicng the product name and app will listed product you want based text you typed in search box, if you want to see the detail you can tap the image and it will navigate you (ProductDeatil Screen)</p></td>
   </tr>
   <tr>
     <td>6</td>
     <td> <img src="https://github.com/user-attachments/assets/0dcdecc5-e441-4b19-99df-3247524ee731" width="200" height="350" /></td>
-    <td><p>Store Screen Supplier Side</p></td>
+    <td><p>Store Screen Supplier Side, it showing all available Store that registered in this app, if you want to see more detail about the store you can just tap the image and it will automically navigate you to (Store Screen Detail)</p></td>
   </tr>
   <tr>
     <td>7</td>
     <td><img src="https://github.com/user-attachments/assets/e3768319-3464-48f9-bba2-1406576fc840" width="200" height="350" /></td>
-    <td><p>Store detail Screen Supplier Side</p></td>
+    <td><p>Store detail Screen Supplier Side, in this screen you can see all product this store profide and you can contact the supplier by tapping icon whatup icon, if you are supplier then you can edit Store Information by Tapping "Edit Text" it will automically navigate you to EditStore Screen </p></td>
   </tr>
   <tr>
     <td>8</td>
