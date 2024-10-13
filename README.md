@@ -18,12 +18,12 @@
   <tr>
     <td>1</td>
     <td> <img src="https://github.com/user-attachments/assets/717cd03f-dc9b-4ee5-acfe-d47dd57a363e" width="200" height="350" /></td>
-    <td><p>1. Login Screen Supplier Side</p></td>
+    <td><p>Login Screen Supplier Side, in this screen you can login using email and password you created. If you still doesnt have account you can create account by tapping "SIgnUp Text" it will navigate you to signUp Screen. If you forgot your password but you still remember your email you can tap "Forgot Password Text" it will navigate you to Forgot Password Screen</p></td>
   </tr>
   <tr>
     <td>2</td>
     <td><img src="https://github.com/user-attachments/assets/9c48a31a-fa26-454c-9a5a-2b4e9b198571" width="200" height="350" /></td>
-    <td><p>SignUp Screen Supplier Side</p></td>
+    <td><p>SignUp Screen Supplier Side, in This Screen you can create new account by filling some input storeName, email, password. Store Name is needed for Naming Your Store and make Easier customer to find You, Email Address is needed for you to login, password is needed to prevent other user using your account so make sure to make strong password, when you are done filling your information you can sign up if succesfull you will automically navigate you to Home Screen</p></td>
   </tr>
   <tr>
     <td>3</td>
