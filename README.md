@@ -53,7 +53,7 @@
   <tr>
     <td>8</td>
     <td><img src="https://github.com/user-attachments/assets/73f31a1c-281c-42c0-b9d6-6f2be526d19d" width="200" height="350" /></td>
-    <td><p>Dashboard Screen Supplier Side</p></td>
+    <td><p>Dashboard Screen Supplier Side, in this Screen there six component you can choose My Store, Orders, Edit Profile, manage Product, Balance, Static. My Store, you can see all description off your store when you tap to this component and you will navigate to MyStore Screen. Orders, when you tap on this components, you will navigate to Orders Screen that you can see all orders you have done before. Edit Profile, when you tap this component automically you will navigate to EditProfile Screen, in here you can edit all profile as you like. Manage Product, when you click this component you will navigate to ManageProduct Screen, it will will show all your product you have. Balance when you tap this component you will automically navigate to Balance Screen, you can see amount of balance you own. Static, when you click on this component you will navigate to Static Screen</p></td>
   </tr>
   <tr>
     <td>9</td>
