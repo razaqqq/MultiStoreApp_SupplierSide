@@ -58,37 +58,37 @@
   <tr>
     <td>9</td>
     <td><img src="https://github.com/user-attachments/assets/46d4484f-2d11-470e-8358-b008e01d12ae" width="200" height="350" /></td>
-    <td><p>My Store Screen Supplier Side</p></td>
+    <td><p>My Store Screen Supplier Side, this MyStore Screen in here you can Edit your Store information and see all product you have. You can edit your store information by tapping Edit Button, it will navigate you to EditStore Sceen.In here you can see all your product you have, if tapping in one of your product then you will navigate to EditProduct Screen in this screen you can Edit Your Product Description</p></td>
   </tr>
   <tr>
     <td>10</td>
     <td><img src="https://github.com/user-attachments/assets/a119e46a-6496-4f3e-8f42-085ededd11c8" width="200" height="350" /></td>
-    <td><p>Edit Store Screen Supplier Side</p></td>
+    <td><p>Edit Store Screen Supplier Side, in here you can edit store description. Changing Logo, changing Banner Image, canging store name, canging store description. When you satisfied for all the changes you can tap on Save Changes</p></td>
   </tr>
   <tr>
     <td>11</td>
     <td><img src="https://github.com/user-attachments/assets/f2e93805-e3c5-4c47-a6c5-2ca070ae8310" width="200" height="350" /></td>
-    <td><p>11. Supplier Order Screen Supplier Side</p></td>
+    <td><p>Supplier Order Screen Supplier Side, in here you can see all orders you have. There are three step of order before you shipping your product to your customer. (PREPARRING, SHIPPING, DELIVERING) preparing is the first step you get when you have receive new order as Supplier what you can do is click the new order an progres to the next step, SHIPPING this will tell your customer that their product still in packing, DELIVERING this the last step it will tell your customer that their product is delivering and it will take time before customer to see their product</p></td>
   </tr>
   <tr>
     <td>12</td>
     <td><img src="https://github.com/user-attachments/assets/edf90cb8-34cf-4a16-9d43-ce5bf50b9785" width="200" height="350" /></td>
-    <td><p>12. Manage Product Screen Supplier Side</p></td>
+    <td><p>Manage Product Screen Supplier Side, in this screen you can see all your product, when you tapping one of your product you will navigate to Product Screen. WHen you clicking in tiny pencil icon you will navigate to EditProduct Screen that you can edit your product description</p></td>
   </tr>
   <tr>
     <td>13</td>
     <td><img src="https://github.com/user-attachments/assets/19ae1a4f-4f47-40a6-9913-fadfb7fbac78" width="200" height="350" /></td>
-    <td><p>Upload New Product Screen Supplier Side</p></td>
+    <td><p>Upload New Product Screen Supplier Side, you can upload here, before uploading new product give some information about your product. Your Product Image, Your Product Category, Your Product Price etc. When You Completed filling all the information and you satisfied about the information has been inputted, you can tap upload product in bottom right corner it will  upload your new product</p></td>
   </tr>
   <tr>
     <td>14</td>
     <td> <img src="https://github.com/user-attachments/assets/957d0fed-e0ea-4237-aab9-1c95de85c626" width="200" height="350" /></td>
-    <td><p>Product Dedtail Screen Supplier Side</p></td>
+    <td><p>Product Dedtail Screen Supplier Side, this is the page that customer see about your product it will show all information of your product so make sure to write descriptive information about your product and give some attractive product image to make sure your customer to buy your product</p></td>
   </tr>
   <tr>
     <td>15</td>
     <td> <img src="https://github.com/user-attachments/assets/941046e4-b6f1-4c9e-831f-71545b1362bd" width="200" height="350" /></td>
-    <td><p>Product Dedtail Image Shower Screen Supplier Side</p></td>
+    <td><p>Product Dedtail Image Shower Screen Supplier Side, this will show all image this product</p></td>
   </tr>
 </table>
 
